@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(179, 179, 179);
+    color: saddlebrown;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img {
+    width: 600px;
+}
+
+a {
+    color: rgb(225, 235, 255);
+}
+
+div {
+    margin: auto;
+    width: 800px;
+    text-align: center;
+    border: 7px solid rgb(39, 0, 112);
+    margin-top: 1cm;
+    padding: 20px;
+}
